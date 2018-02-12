@@ -1,0 +1,36 @@
+{
+  "name": "asscup",
+  "version": "1.0.0",
+  "description": "An easy markup language that will help you in any dispute.",
+  "main": "./src/asscup.js",
+  "scripts": {
+    "test": "mocha tests --recursive --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flurescein/asscup.git"
+  },
+  "keywords": [
+    "markup",
+    "language",
+    "curses",
+    "dispute",
+    "easy",
+    "lightweight",
+    "two",
+    "girls",
+    "one",
+    "cup"
+  ],
+  "author": "flurescein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flurescein/asscup/issues"
+  },
+  "homepage": "https://github.com/flurescein/asscup#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-arrays": "^2.0.0",
+    "mocha": "^5.0.0"
+  }
+}
