@@ -1,0 +1,38 @@
+{
+  "name": "asscup-gh-pages",
+  "version": "1.0.0",
+  "description": "GitHub page for asscup.",
+  "main": "./docs/index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flurescein/asscup.git"
+  },
+  "keywords": [
+    "asscup",
+    "github",
+    "pages",
+    "page",
+    "site"
+  ],
+  "author": "flurescein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flurescein/asscup/issues"
+  },
+  "homepage": "https://github.com/flurescein/asscup#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "6.4.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.2.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.7.0",
+    "gulp-webpack": "^1.5.0",
+    "json-loader": "^0.5.7",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "asscup": "^1.0.0"
+  }
+}
